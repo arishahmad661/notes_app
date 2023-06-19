@@ -29,9 +29,11 @@ To get started with the Note Taking App, follow these steps:
 
 2. Install Flutter and Dart on your machine if you haven't already. Refer to the Flutter documentation for installation instructions: [Flutter - Get Started](https://flutter.dev/docs/get-started)
 
-3. Open the project in your preferred IDE or text editor.
+3. Create a new project.
 
-4. Set up Firebase Firestore:
+4. Replace lib folder and pubspec.yaml file.
+
+5. Set up Firebase Firestore:
 
 - Create a new project on the [Firebase console](https://console.firebase.google.com/).
 - Enable Firestore in your project.
